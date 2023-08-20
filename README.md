@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @gamerdiv
+- 👀 I’m interested in ...
+- 🌱  I am currently learning game programming ...
+- 📫 How to reach me  e-mail : tenientenickreyes@gmail.com...
+
+<!---
+gamerdiv/gamerdiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
